@@ -1,5 +1,9 @@
-import json
+this sis jx jc js
 
-with open("file.txt" ,'r') as fp:
-content = fp.read(15)
-	print("this is the content" ,content)
+sff
+
+s
+c
+c
+
+fv

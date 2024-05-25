@@ -1,6 +1,2 @@
-this is a text msg.
-hi welocome to my repo.
--------------------------------
+this is first line
 
-summa than , onnum illa.close pannu
-seri , ippo ne update pannu.

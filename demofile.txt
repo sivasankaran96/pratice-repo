@@ -3,19 +3,11 @@ this is first line
 this si second line
 this is 4gth line
 let thius is to secound line
-<<<<<<< Updated upstream
-sunday new line
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-=======
->>>>>>> Stashed changes
-=======
+
+sunday ne
+this is last line modif
 this is last line modified
->>>>>>> Stashed changes
-=======
-this is last line modified
->>>>>>> Stashed changes
-=======
-this is last line modified
->>>>>>> Stashed changes
+
+this is last line mod
+jsndcijs
+
